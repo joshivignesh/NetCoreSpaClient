@@ -1,0 +1,14 @@
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\bin\Debug\netcoreapp2.1\CORESPAClient.deps.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\bin\Debug\netcoreapp2.1\CORESPAClient.runtimeconfig.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\bin\Debug\netcoreapp2.1\CORESPAClient.runtimeconfig.dev.json
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\bin\Debug\netcoreapp2.1\CORESPAClient.dll
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\bin\Debug\netcoreapp2.1\CORESPAClient.pdb
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.csprojAssemblyReference.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.csproj.CoreCompileInputs.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.RazorAssemblyInfo.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.RazorAssemblyInfo.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.AssemblyInfoInputs.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.AssemblyInfo.cs
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.RazorTargetAssemblyInfo.cache
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.dll
+E:\Vignesh Workouts\NET Core\VSCodeWorkouts\CORESPAClient\CORESPAClient\obj\Debug\netcoreapp2.1\CORESPAClient.pdb
